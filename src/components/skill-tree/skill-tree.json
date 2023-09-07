@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_skill_tree_skill_tree_s",
+  "info": {
+    "displayName": "Skill tree "
+  },
+  "options": {},
+  "attributes": {
+    "skill": {
+      "type": "richtext"
+    }
+  }
+}
